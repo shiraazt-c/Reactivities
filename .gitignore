@@ -482,3 +482,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+API/wwwroot/assets/index-BMT1PiFL.js
+API/wwwroot/assets/index-CxyUC5P8.js
+client-app/.gitignore
