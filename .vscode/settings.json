@@ -1,0 +1,21 @@
+{
+  "sqltools.connections": [
+    {
+      "mssqlOptions": {
+        "appName": "SQLTools",
+        "useUTC": true,
+        "encrypt": true
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 1433,
+      "driver": "MSSQL",
+      "name": "mysqlsvr",
+      "database": "reactivities",
+      "username": "SA",
+      "password": "Password@1"
+    }
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/6cfc3bb2-98dc-4121-b33e-aaef9e8c9dfb/resourceGroups/mydev-group/providers/Microsoft.Web/sites/Myactivities",
+  "appService.deploySubpath": "API\\bin\\Publish"
+}
